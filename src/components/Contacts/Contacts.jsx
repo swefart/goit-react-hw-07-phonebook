@@ -16,7 +16,7 @@ export const ContactsList = () => {
       return () => {
         
       }
-    }, [])
+    }, [dispatch])
  
     return (
         
